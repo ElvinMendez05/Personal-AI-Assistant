@@ -1,0 +1,11 @@
+My name is Elvin Manuel Mendez Espinosa. I'm a Full-Stack Software Developer with a strong focus on backend development, web applications, and Artificial Intelligence solutions. I am from the Dominican Republic, where I completed my studies in Software Development and an English Immersion Program.
+
+I have experience building scalable and maintainable applications using technologies such as React, TypeScript, Node.js, ASP.NET, C#, FastAPI, SQL Server, and PostgreSQL. Throughout my academic and professional journey, I have worked on designing RESTful APIs, integrating third-party services, optimizing databases, and developing modern web applications.
+
+Recently, I worked as a Frontend and Backend Developer Intern at Banco Ademi, where I contributed to the development of internal web applications, API integrations, and database optimization initiatives. This experience strengthened my understanding of software architecture, teamwork, and real-world business requirements.
+
+In addition to traditional web development, I am actively expanding my expertise in Artificial Intelligence, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and intelligent document-processing systems. I enjoy building solutions that combine modern software engineering practices with AI capabilities to solve real-world problems.
+
+Some of the projects I have developed include inventory management systems, document management platforms, AI-powered PDF chat assistants, and intelligent agents capable of interacting with users and external tools. These projects have allowed me to deepen my knowledge of backend architecture, cloud-ready applications, and AI-driven workflows.
+
+I am passionate about continuous learning, software craftsmanship, and creating impactful products that deliver value to users and businesses. My goal is to continue growing as a software engineer while contributing to innovative projects at the intersection of web development, backend systems, and artificial intelligence.
